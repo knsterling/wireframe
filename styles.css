@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(245, 238, 234);
+}
+
+li{
+    color: rgb(3, 1, 15);
+    text-align: left;
+    text-size-adjust:;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p{
+  text-align: center ;
+  }
+
+  h1 {
+      text-align: center;
+      color: rgb(240, 73, 73);
+  }
+
+Var title = "Sinfulicious Bakery"
+title
+"sinfulicious bakery"
+
+if (title = "sinfulicious bakery") {alert ("Lord, sweet Jesus!")}
+
+
+
