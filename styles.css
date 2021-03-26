@@ -23,6 +23,8 @@ img {
       color: rgb(240, 73, 73);
   }
 
+Var title = prompt ("What's the name of this joint?")
+
 Var title = "Sinfulicious Bakery"
 title
 "sinfulicious bakery"
